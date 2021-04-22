@@ -30,25 +30,25 @@ komutları ile çalıştırılabilir.
 
 Uygulamanın giriş ekranı;
 <br/><br/>
-![](Screenshot/Screenshot_1.jpg)
+![](Screenshot/Screenshot_1.png)
 <br/><br/>
 Camera ile obje algılama;
 <br/><br/>
-![](Screenshot/Screenshot_2.jpg)
+![](Screenshot/Screenshot_2.png)
 <br/><br/>
 Galeri ile obje algılama;
 <br/><br/>
-![](Screenshot/Screenshot_3.jpg)
+![](Screenshot/Screenshot_3.png)
 <br/><br/>
 Galeri;
 <br/><br/>
-![](Screenshot/Screenshot_4.jpg)
+![](Screenshot/Screenshot_4.png)
 <br/><br/>
 Galeriden seçilen fotoğrafın görüntülenmesi;
 <br/><br/>
-![](Screenshot/Screenshot_5.jpg)
+![](Screenshot/Screenshot_5.png)
 <br/><br/>
 Gönder butonuna basıldıktan sonra servisten dönen sonuçlar ile resmin çizdirilmiş hali;
 <br/><br/>
-![](Screenshot/Screenshot_6.jpg)
+![](Screenshot/Screenshot_6.png)
 <br/><br/>
